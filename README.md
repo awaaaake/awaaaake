@@ -19,4 +19,4 @@
 ---
 
 ### 📫 How to reach me:
-- Email: [xornd1110@naver.com](mailto:xornd1110@naver.com)
+- Email: [xornd1110@naver.com](mailto:xornd1110@gmail.com)/[xornd1110@gmail.com](mailto:xornd1110@naver.com)
