@@ -14,10 +14,7 @@
 ### 🚀 About Me
 - **Naver Boostcamp Web/Mobile Membership 9th**
   
-### 🛠 My Tech Stack
-- **Frontend**: React, HTML5, CSS3, JavaScript, TypeScript
-
 ---
 
 ### 📫 How to reach me:
-- Email: [xornd1110@naver.com](mailto:xornd1110@gmail.com)/[xornd1110@gmail.com](mailto:xornd1110@naver.com)
+- Email:[xornd1110@gmail.com](mailto:xornd1110@naver.com)
