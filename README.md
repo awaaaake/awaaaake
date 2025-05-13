@@ -9,12 +9,3 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
----
-
-### 🚀 About Me
-- **Naver Boostcamp Web/Mobile Membership 9th**
-  
----
-
-### 📫 How to reach me:
-- Email:[xornd1110@gmail.com](mailto:xornd1110@naver.com)
